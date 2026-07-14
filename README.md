@@ -2,7 +2,7 @@
 
 Predicting whether an early-stage startup will be **acquired** or will **close**, using historical funding, milestone, and network data. Built as an end-to-end, portfolio-ready machine learning project — from raw data to a deployed web app.
 
-**[Live Demo](#) · [Notebook](notebooks/startup_success_prediction.ipynb) · [Web App Code](app/app.py)**
+**[Live Demo](https://startup-success-jermiah.streamlit.app) · [Notebook](notebooks/startup_success_prediction.ipynb) · [Web App Code](app/app.py)**
 
 ---
 
